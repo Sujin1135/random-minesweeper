@@ -1,0 +1,9 @@
+# IDE directory
+.idea
+
+# Build derectory
+/build
+
+# Gradle directories
+.gradle
+/gradle
